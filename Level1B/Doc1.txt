@@ -1,0 +1,12 @@
+Desktop
+
+cd
+
+mkdir Level1
+
+mkdir Level1A Level1B 
+
+cd Level1B
+
+touch CL_exercises.txt
+
